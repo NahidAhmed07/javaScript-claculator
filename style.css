@@ -1,4 +1,4 @@
-body{
+body, .bg{
     background: #666666;
 }
 
@@ -8,4 +8,20 @@ body{
 
 .visible{
     visibility: visible;
+}
+
+.span {
+    padding: 5px;
+    /* background:rgb(24, 3, 206); */
+    color: white;
+    margin: 5px;
+}
+
+.prime-box{
+    height: 300px;
+    overflow-y: scroll;
+}
+
+.outline{
+  
 }
